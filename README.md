@@ -1,4 +1,4 @@
-### Olá, me chamo matheus 👋
+### Olá, me chamo Matheus 👋
 
 - 💻 Estudando Desenvolvimento de Sistemas 
 - 🤓 Estagiário 
