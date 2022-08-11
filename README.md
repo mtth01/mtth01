@@ -1,7 +1,9 @@
 ### Olá, me chamo Matheus 👋
+
 👨‍💻 - Cursando Análise e Desenvolvimento de sistemas
 🤓 - Estágiario
-<div style={ display: inline;} align="center">
+
+<div style={ display: inline;} >
   <a href="https://github.com/mtth01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mtth01&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtth01&layout=compact&langs_count=7&theme=radical"/>
