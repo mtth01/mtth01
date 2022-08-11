@@ -1,6 +1,7 @@
 ### Olá, me chamo Matheus 👋
 
 👨‍💻 - Cursando Análise e Desenvolvimento de sistemas
+<br/>
 🤓 - Estágiario
 
 <div style={ display: inline;} >
